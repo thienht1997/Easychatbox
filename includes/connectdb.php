@@ -1,8 +1,8 @@
 <?php
-	$namehost = 'db4free.net';
-	$userhost = 'thienht1997tt';
-	$passhost = 'thien123';
-	$database = 'easychatbox';
+	$namehost = 'us-cdbr-iron-east-02.cleardb.net';
+	$userhost = 'b755ebcddfebe1';
+	$passhost = '04ab5383';
+	$database = 'heroku_263ee39fb856ff4';
 
 	// Lệnh kết nối tới database
 	$cn = mysqli_connect($namehost, $userhost, $passhost, $database);
